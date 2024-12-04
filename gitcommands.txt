@@ -3,3 +3,12 @@
 > git status => listing all untracked files
 
 > git add -A => command for adding all untracked files to staging area
+
+> git commit -m "commit meggase' 	=> command for adding staged files to localrepositary
+
+> git clone => exact copy from remote repository to localworkspace
+
+> git pull	=>  changes from remote repository to local workspace
+
+> git push	=> local repository changes to remote repository
+
